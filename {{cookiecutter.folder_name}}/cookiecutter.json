@@ -1,5 +1,7 @@
 {
     "folder_name":"cookiecutter_folder",
     "file_name":"cookiecutter_file",
-    "name":"vpetwal"
+    "name":"vpetwal",
+    "project_name":"project_name",
+    "_templates_repo":"https://github.com/vivekanandpetwalhashedin/cookiecutter-custom.git"
 }
